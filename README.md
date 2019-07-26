@@ -1,2 +1,2 @@
-# semiproject
-콘솔 세미프로젝트입니다.
+# Ssangyong-Cinema
+콘솔입출력프로젝트
